@@ -8,11 +8,13 @@
 
 This package provides a high performance HTTP server to speed up your Laravel/Lumen application based on [Swoole](http://www.swoole.com/).
 
+Fork from [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) to support version 2.5.x , thank swooletw!
+
 ## Version Compatibility
 
 | PHP     | Laravel | Lumen | Swoole  |
 |:-------:|:-------:|:-----:|:-------:|
-| >=7.1 | ~5.1    | ~5.1  | >=4.0.0 |
+| >=7.1 | ~5.4    | ~5.4  | >=4.0.0 |
 
 ## Features
 
